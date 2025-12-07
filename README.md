@@ -36,6 +36,7 @@ A growing collection of all my favourite Cyber Security tools
   - Remnux: A designated malware analysis operating system (https://remnux.org)
   - Kali: The most common pentesting focused operating system (https://kali.org)
   - ParrotOS: Another pentesting focused operating system (https://parrotsec.org)
+  - TrueNAS: Honorable mention, BACK UP YOUR IMPORTANT SHIZ!! (https://www.truenas.com/)
 
 ## SOC:
 ### SIEM/SOAR/EDR
