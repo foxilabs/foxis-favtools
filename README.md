@@ -12,7 +12,7 @@ A growing collection of all my favourite Cyber Security tools
 
 ## Malware Analysis
   - Any.Run: Maleware sandbox (https://app.any.run)
-  - Virus Total: Virus checker (https://virustotal.com/gui)
+  - Virus Total: Virus checker (https://virustotal.com)
   - MalwareBazaar: Malware database (https://bazaar.abuse.ch)
   - MalShare: Malware database (https://malshare.com)
 
