@@ -1,24 +1,33 @@
 # Foxi's - FavTools
 A growing collection of all my favourite Cyber Security tools
 
+## Online Tools
+### Data Manipulation
+  - Cyber Chef: A great webapp that can run standalone for all manner of encypryption and encoding needs (https://gchq.github.io/CyberChef/)
+### Malware Analysis
+  - Any.Run: Maleware sandbox (https://app.any.run)
+  - Virus Total: Checks files (or their hash sums) or URLs for suspicious activity (https://virustotal.com)
+  - MalwareBazaar: Malware database (https://bazaar.abuse.ch)
+  - MalShare: Malware database (https://malshare.com)
+### OSINT
+  - Shodan: Open ports (https://shodan.io)
+  - OSINT Framework: All the OSINT (https://osintframework.com)
+  - urlscan.io: A domain / URL checker (https://urlscan.io/)
+  - AbuseIPDB: A malicious IP checker (https://www.abuseipdb.com/)
+  - IPinfo: Another IP checker (https://ipinfo.io/)
+
 ## Reverse Engineering
+### Binaries
   - Ghidra: NSA's binary reverse engineering (https://github.com/NationalSecurityAgency/ghidra)
   - IDA-free: Binary reverse engineering (https://hex-rays.com/ida-free)
+### Passwords
+  - Hashcat: "advanced password recovery" (https://hashcat.net/hashcat/)
+  - John the Ripper: Password cracker (https://www.openwall.com/john/)
 
 ## Network Analysis
   - Nmap: Active Port Scanner (https://nmap.org)
   - Wireshark: Network packet sniffer (https://wireshark.org)
   - Aircrack-ng: Wi-Fi WPA/WPA2 cracking (https://aircrack-ng.org)
-
-## Malware Analysis
-  - Any.Run: Maleware sandbox (https://app.any.run)
-  - Virus Total: Virus checker (https://virustotal.com)
-  - MalwareBazaar: Malware database (https://bazaar.abuse.ch)
-  - MalShare: Malware database (https://malshare.com)
-
-## OSINT
-  - Shodan: Open ports (https://shodan.io)
-  - OSINT Framework: All the OSINT (https://osintframework.com)
 
 ## Security Operating Systems
   - QubesOS: An aboslutely top-notch privacy and security focused operating system, everything is cascading virtual machines from templates using Xen hypervisor. This along with its "DisposableVM" functionality and whonix setup by default; means unless you want to use TailsOS, this is your safest bet (https://www.qubes-os.org/)
@@ -29,10 +38,22 @@ A growing collection of all my favourite Cyber Security tools
   - ParrotOS: Another pentesting focused operating system (https://parrotsec.org)
 
 ## SOC:
+### SIEM/SOAR/EDR
   - Splunk: Common SIEM/SOAR (https://splunk.com)
+### Phishing
+  - Phish Tool: A deep featured phishing forensics tool (https://www.phishtool.com/)
 
 ## Cryptography (Coming soon, need to re-find)
 ### Steganography 
+
+## Great cyber security feeds
+### Paid
+  - Falcon Feeds: Would love an option to sign-in without having to dig out my google account but, it is beautifully presented information with a great threat feed. I must say, my favourite aspect is the way it tracks ransomware groups. Also this has a great index page mouse interaction functionality (https://falconfeeds.io/)
+  - Feedly: It's chat AI chat report capability is quite unique, and you can select a wide array of cyber security aspects to focus on for a more personalised feed. (https://feedly.com/)
+### Free
+  - Bleeping Computer: The grand daddy of cyber security news magazines (https://www.bleepingcomputer.com/)
+  - The DFIR Report: Great in-depth analysis on how attacks are performed (https://thedfirreport.com/)
+  - Hackers Arise: My personal favourite, on a website run by an absolute legend "Occupy The Web" (https://hackers-arise.com/articles/)
 
 ## Hardware
   - HackRF One w/ H4M Mayhem Module: Software defined radio with portable pentest ability (https://greatscottgadgets.com/hackrf/one/) + (https://opensourcesdrlab.com/products/h4m-receiver-and-spectrum-analyzer?VariantsId=10129)
