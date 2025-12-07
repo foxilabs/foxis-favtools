@@ -35,7 +35,7 @@ A growing collection of all my favourite Cyber Security tools
 ### Steganography
   - Secret Pixel: An AES-256 encrypted LSB steganography tool that supports RSA 4096bit (https://github.com/x011/SecretPixel)
 
-## SOC:
+## SOC
 ### SIEM/SOAR/EDR
   - Splunk: Common SIEM/SOAR (https://splunk.com)
 ### Phishing
