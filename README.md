@@ -46,8 +46,9 @@ A growing collection of all my favourite Cyber Security tools
 ### Phishing
   - Phish Tool: A deep featured phishing forensics tool (https://www.phishtool.com/)
 
-## Cryptography (Coming soon, need to re-find)
-### Steganography 
+## Cryptography
+### Steganography
+  - Secret Pixel: An AES-256 encrypted LSB steganography tool that supports RSA 4096bit (https://github.com/x011/SecretPixel)
 
 ## Great cyber security feeds
 ### Paid
