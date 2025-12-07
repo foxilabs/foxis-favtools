@@ -22,13 +22,14 @@ A growing collection of all my favourite Cyber Security tools
   - Ghidra: NSA's binary reverse engineering (https://github.com/NationalSecurityAgency/ghidra)
   - IDA-free: Binary reverse engineering (https://hex-rays.com/ida-free)
 ### Passwords
-  - Hashcat: "advanced password recovery" (https://hashcat.net/hashcat/)
+  - Hashcat: "advanced password recovery" - uh-huh sure bud... (https://hashcat.net/hashcat/)
   - John the Ripper: Password cracker (https://www.openwall.com/john/)
 
 ## Network Analysis
   - Nmap: Active Port Scanner (https://nmap.org)
   - Wireshark: Network packet sniffer (https://wireshark.org)
   - Aircrack-ng: Wi-Fi WPA/WPA2 cracking (https://aircrack-ng.org)
+  - Scapy: Sometimes they put it best - "forge or decode packets of a wide number of protocols, send them on the wire, capture them, match requests and replies, and much more." (https://scapy.net/)
 
 ## Security Operating Systems
   - QubesOS: An aboslutely top-notch privacy and security focused operating system, everything is cascading virtual machines from templates using Xen hypervisor. This along with its "DisposableVM" functionality and whonix setup by default; means unless you want to use TailsOS, this is your safest bet (https://www.qubes-os.org/)
