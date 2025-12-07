@@ -49,6 +49,7 @@ A growing collection of all my favourite Cyber Security tools
   - Kali: The most common pentesting focused operating system (https://kali.org)
   - ParrotOS: Another pentesting focused operating system (https://parrotsec.org)
   - TrueNAS: Honorable mention, BACK UP YOUR IMPORTANT SHIZ!! (https://www.truenas.com/)
+  - GParted: this may be familiar as it is also a drive partitioning application, but it can be suprisingly useful when loaded onto a USB with RUFUS or Balena-Etcher and booted into as a live environment. As this allows for drive manipulation that can be complicated when an OS is running on it (https://gparted.org/livecd.php)
 
 ## Great cyber security feeds
 ### Paid
