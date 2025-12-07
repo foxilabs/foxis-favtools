@@ -30,6 +30,16 @@ A growing collection of all my favourite Cyber Security tools
   - Wireshark: Network packet sniffer (https://wireshark.org)
   - Aircrack-ng: Wi-Fi WPA/WPA2 cracking (https://aircrack-ng.org)
   - Scapy: Sometimes they put it best - "forge or decode packets of a wide number of protocols, send them on the wire, capture them, match requests and replies, and much more." (https://scapy.net/)
+    
+## Cryptography
+### Steganography
+  - Secret Pixel: An AES-256 encrypted LSB steganography tool that supports RSA 4096bit (https://github.com/x011/SecretPixel)
+
+## SOC:
+### SIEM/SOAR/EDR
+  - Splunk: Common SIEM/SOAR (https://splunk.com)
+### Phishing
+  - Phish Tool: A deep featured phishing forensics tool (https://www.phishtool.com/)
 
 ## Security Operating Systems
   - QubesOS: An aboslutely top-notch privacy and security focused operating system, everything is cascading virtual machines from templates using Xen hypervisor. This along with its "DisposableVM" functionality and whonix setup by default; means unless you want to use TailsOS, this is your safest bet (https://www.qubes-os.org/)
@@ -39,16 +49,6 @@ A growing collection of all my favourite Cyber Security tools
   - Kali: The most common pentesting focused operating system (https://kali.org)
   - ParrotOS: Another pentesting focused operating system (https://parrotsec.org)
   - TrueNAS: Honorable mention, BACK UP YOUR IMPORTANT SHIZ!! (https://www.truenas.com/)
-
-## SOC:
-### SIEM/SOAR/EDR
-  - Splunk: Common SIEM/SOAR (https://splunk.com)
-### Phishing
-  - Phish Tool: A deep featured phishing forensics tool (https://www.phishtool.com/)
-
-## Cryptography
-### Steganography
-  - Secret Pixel: An AES-256 encrypted LSB steganography tool that supports RSA 4096bit (https://github.com/x011/SecretPixel)
 
 ## Great cyber security feeds
 ### Paid
