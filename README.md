@@ -7,12 +7,12 @@ A growing collection of all my favourite Cyber Security tools
 ### Malware Analysis
   - Any.Run: Maleware sandbox (https://app.any.run)
   - Virus Total: Checks files (or their hash sums) or URLs for suspicious activity (https://virustotal.com)
-  - SUCURi: URL checker for "known malware, viruses, blacklisting status, website errors, out-of-date software, and malicious code" (https://sitecheck.sucuri.net/)
   - MalwareBazaar: Malware database (https://bazaar.abuse.ch)
   - MalShare: Malware database (https://malshare.com)
 ### OSINT
   - Shodan: Open ports (https://shodan.io)
   - OSINT Framework: All the OSINT (https://osintframework.com)
+  - SUCURi: URL checker for "known malware, viruses, blacklisting status, website errors, out-of-date software, and malicious code" (https://sitecheck.sucuri.net/)
   - urlscan.io: A domain / URL checker (https://urlscan.io/)
   - AbuseIPDB: A malicious IP checker (https://www.abuseipdb.com/)
   - IPinfo: Another IP checker (https://ipinfo.io/)
