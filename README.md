@@ -28,6 +28,7 @@ A growing collection of all my favourite Cyber Security tools
 ## Network Analysis
   - Nmap: Active Port Scanner (https://nmap.org)
   - Wireshark: Network packet sniffer (https://wireshark.org)
+  - NetworkMiner: Network artifact forensics (https://www.netresec.com/?page=NetworkMiner)
   - Aircrack-ng: Wi-Fi WPA/WPA2 cracking (https://aircrack-ng.org)
   - Scapy: Sometimes they put it best - "forge or decode packets of a wide number of protocols, send them on the wire, capture them, match requests and replies, and much more." (https://scapy.net/)
     
