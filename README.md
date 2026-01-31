@@ -21,6 +21,8 @@ A growing collection of all my favourite Cyber Security tools
 ### Binaries
   - Ghidra: NSA's binary reverse engineering (https://github.com/NationalSecurityAgency/ghidra)
   - IDA-free: Binary reverse engineering (https://hex-rays.com/ida-free)
+  - Binary Ninja: Moar binary reversing (https://binary.ninja)
+  - Binwalk: Analyzing, reverse engineering, and extracting firmware (https://github.com/ReFirmLabs/binwalk)
 ### Passwords
   - Hashcat: "advanced password recovery" - uh-huh sure bud... (https://hashcat.net/hashcat/)
   - John the Ripper: Password cracker (https://www.openwall.com/john/)
@@ -30,6 +32,7 @@ A growing collection of all my favourite Cyber Security tools
   - Wireshark: Network packet sniffer (https://wireshark.org)
   - NetworkMiner: Network artifact forensics (https://www.netresec.com/?page=NetworkMiner)
   - Aircrack-ng: Wi-Fi WPA/WPA2 cracking (https://aircrack-ng.org)
+  - Network Miner: A tool for network discovery and analysis (https://www.netresec.com/?page=NetworkMiner)
   - Scapy: Sometimes they put it best - "forge or decode packets of a wide number of protocols, send them on the wire, capture them, match requests and replies, and much more." (https://scapy.net/)
     
 ## Cryptography
